@@ -1,6 +1,6 @@
 # PeerReturnGaps
-Python implementation (INCOMPLETE version)
+Python implementation (INCOMPLETE version):
 
-  Univariare portfolio sorting
-  Bivariate portfolio sorting
-  Fama-Macbeth regression
+  Univariare portfolio sorting;
+  Bivariate portfolio sorting;
+  Fama-Macbeth regression;
