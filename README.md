@@ -26,3 +26,6 @@ $$
 - $\beta_{i}^{\text{Peer}}$: Regression coefficient of stock $i$'s monthly return on its peer portfolio's return (estimated using monthly data from year $t-4$ to $t$).
 
 This formulation incorporates a return volatility adjustment through $\beta_i^\text{Peer}$, which effectively accounts for differential risk characteristics between the individual security and its peer portfolio, ensuring that the gap measure reflects risk-adjusted performance divergence. Such a composite measure quantifies two key aspects: the aggregate strength of a stock’s peer group and its relative position within that group.
+
+## 📚 References
+Chen, et al. (2019), "Empirical investigation of an equity pairs trading strategy" (published in *Management Science*, Vol. 65, No. 1, pp. 370–389).
