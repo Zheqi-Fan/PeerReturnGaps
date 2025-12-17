@@ -13,3 +13,14 @@ The program contains:
   📋 Univariare portfolio sorting;
   🧮 Bivariate portfolio sorting;
   📉 Fama-Macbeth regression;
+
+The Peer Return Gap for stock $i$ in month $m$ of year $t+1$ is formally defined as the risk-adjusted divergence between the peer portfolio's performance and the individual stock's performance:
+
+\begin{equation}
+\label{eq:prg}
+\text{PRG}_{i,m} = \beta_{i}^{\text{Peer}} \cdot (R_{i,m}^{\text{Peer}} - Rf_m) - (R_{i,m}^{\text{Stock}} - Rf_m)
+\end{equation}
+
+📌 Where $Rf_m$ is the risk-free rate at month $m$ and $\beta_{i}^{\text{Peer}}$ is the regression coefficient of stock $i$'s monthly return on its peer portfolio's return using monthly data between year $t-4$ and $t$.
+
+This formulation incorporates a return volatility adjustment through $\beta_i^\text{Peer}$, which effectively accounts for differential risk characteristics between the individual security and its peer portfolio, ensuring that the gap measure reflects risk-adjusted performance divergence. Such a composite measure quantifies two key aspects: the aggregate strength of a stock’s peer group and its relative position within that group.
