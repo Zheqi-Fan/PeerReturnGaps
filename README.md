@@ -28,6 +28,6 @@ $$
 This formulation incorporates a return volatility adjustment through $\beta_i^\text{Peer}$, which effectively accounts for differential risk characteristics between the individual security and its peer portfolio, ensuring that the gap measure reflects risk-adjusted performance divergence. Such a composite measure quantifies two key aspects: the aggregate strength of a stock’s peer group and its relative position within that group.
 
 ## 📚 References
-Chen, et al. (2019), "Empirical investigation of an equity pairs trading strategy", published in *Management Science*, 65 (1), 370–389.
+Chen, et al. (2019), "Empirical investigation of an equity pairs trading strategy", *Management Science*, 65 (1), 370–389.
 
-Chen, Y. and Fan, Z. (2026), "On cross-stock predictability of peer return gaps in China", published in *Finance Research Open*, 2 (1), 100088.
+Chen, Y. and Fan, Z. (2026), "On cross-stock predictability of peer return gaps in China", *Finance Research Open*, 2 (1), 100088.
