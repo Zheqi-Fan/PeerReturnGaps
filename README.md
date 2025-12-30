@@ -29,4 +29,5 @@ This formulation incorporates a return volatility adjustment through $\beta_i^\t
 
 ## 📚 References
 Chen, et al. (2019), "Empirical investigation of an equity pairs trading strategy", published in *Management Science*, 65 (1), 370–389.
+
 Chen, Yilin and Fan, Zheqi, (2026), "On cross-stock predictability of peer return gaps in China", published in *Finance Research Open*, 2 (1), 100088.
