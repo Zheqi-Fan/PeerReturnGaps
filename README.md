@@ -1,5 +1,5 @@
 # 📊 PeerReturnGaps
-![GitHub Languages](https://img.shields.io/badge/languages-Python%2085%25%20%7C%20JavaScript%2010%25%20%7C%20CSS%205%25-blue?logo=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zheqi-Fan&repo=PeerReturnGaps&layout=compact&langs_count=6&theme=transparent)
 
 Python implementation (INCOMPLETE version) for the quick research project: [On Cross-Stock Predictability of Peer Return Gaps in China 📄](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5417347).
 
